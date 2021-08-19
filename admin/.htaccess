@@ -1,0 +1,4 @@
+# Only access to your IP
+order deny,allow
+deny from all
+allow from 00.00.00.00
